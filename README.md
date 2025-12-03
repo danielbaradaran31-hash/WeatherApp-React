@@ -6,7 +6,7 @@
 
 
 
-🌦️ Weather App – React Projekt
+#🌦️ Weather App – React Projekt
 
 Eine moderne, minimalistische und reaktionsschnelle Wetter-Applikation zur Anzeige der aktuellen Wetterdaten verschiedener deutscher Städte.
 Das Projekt wurde mit React, TailwindCSS und einer komponentenbasierten Architektur entwickelt und bietet eine intelligente Suchfunktion, Temperaturanzeige, Wetterbeschreibung sowie ein animiertes Fehlermodalfenster für ungültige Stadteingaben.
@@ -84,3 +84,5 @@ Das System vergleicht die Eingabe des Nutzers mit der vordefinierten Städte-Lis
  • Attraktives UI-Design für Portfolio und Präsentationen
  • Ideal als Übung für React, CSS und modernes Frontend-Design
  • Perfekte Grundlage, um später echte APIs wie OpenWeatherMap zu integrieren
+
+ Ich habe mit hertz gemacht.
