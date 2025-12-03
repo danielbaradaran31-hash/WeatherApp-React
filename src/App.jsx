@@ -68,7 +68,7 @@ function App() {
             <article className="hourly-card">
               <p className="hour">16:00</p>
               <img src="./public/image/rainy.png" />
-              <p className="hour-temp">27C</p>
+              <p className="hour-temp">18C</p>
             </article>
             <article className="hourly-card">
               <p className="hour">16:00</p>
