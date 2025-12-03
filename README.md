@@ -1,3 +1,11 @@
+
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/eab85288-a355-4581-bfde-0f798209a33c" />
+
+
+
+
+
+
 🌦️ Weather App – React Projekt
 
 Eine moderne, minimalistische und reaktionsschnelle Wetter-Applikation zur Anzeige der aktuellen Wetterdaten verschiedener deutscher Städte.
