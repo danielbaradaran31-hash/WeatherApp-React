@@ -102,7 +102,7 @@ function App() {
             <p className="daily-temp">32C</p>
           </article>
           <article className="daily-card">
-            <p className="daily-date">07/12</p>
+            <p className="daily-date">03/12</p>
             <p className="dayly-day">TUE</p>
             <img src="./public/image/rainy.png" alt="Weather" />
             <p className="daily-temp">32C</p>
